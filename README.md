@@ -26,14 +26,6 @@ The project utilizes the following hardware components:
 - Power plug
 - Resistor 4.7kOhm
 
-## Files
-
-This repository includes the following files:
-
-- `Adjustable_Temperature_Water_Heater.ino`: Arduino sketch for the project.
-- [List other relevant files]
-- [List any libraries used]
-
 ## Usage
 
 Provide instructions on how to use the project, including:
